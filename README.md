@@ -1,11 +1,10 @@
 ### Hello, i'm Ryan
 
 <a href="https://ryancontento.com/">![Portfolio](https://img.shields.io/badge/Site-Portfolio-blue?style=for-the-badge&logo=appveyor)</a>
-<!-- <a href="https://ryancontento.com/">![Blog](https://img.shields.io/badge/Site-Blog-blue?style=for-the-badge&logo=appveyor)</a> -->
 <a href="https://www.linkedin.com/in/ryancontento/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:contento.rk@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://twitter.com/contentoryan">![Twitter](https://img.shields.io/badge/<contentoryan>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<!-- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) -->
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,4 +22,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryancontento&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
  
- 
+ <!-- BELOW IS FOR LATER -->
+ <!-- <a href="https://ryancontento.com/">![Blog](https://img.shields.io/badge/Site-Blog-blue?style=for-the-badge&logo=appveyor)</a> -->
+ <!-- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) -->
