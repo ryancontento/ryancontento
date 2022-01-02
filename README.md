@@ -1,7 +1,7 @@
 ### Hello, i'm Ryan
 
-<a href="https://ryancontento.com/"![Portfolio](https://img.shields.io/badge/Site-Portfolio-blue?style=for-the-badge&logo=appveyor)</a>
-<a href="https://ryancontento.com/"![Portfolio](https://img.shields.io/badge/Site-Blog-blue?style=for-the-badge&logo=appveyor)</a> 
+<a href="https://ryancontento.com/">![Portfolio](https://img.shields.io/badge/Site-Portfolio-blue?style=for-the-badge&logo=appveyor)</a>
+<a href="https://ryancontento.com/">![Portfolio](https://img.shields.io/badge/Site-Blog-blue?style=for-the-badge&logo=appveyor)</a> 
 <a href="https://www.linkedin.com/in/ryancontento/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:contento.rk@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://twitter.com/contentoryan">![Twitter](https://img.shields.io/badge/<contentoryan>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
