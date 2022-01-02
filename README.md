@@ -1,6 +1,7 @@
 ### Hello, i'm Ryan
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/ryancontento/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Twitter](https://img.shields.io/badge/<contentoryan>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 <!-- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) -->
@@ -19,5 +20,5 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryancontento&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+ 
  
