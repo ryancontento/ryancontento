@@ -1,8 +1,8 @@
 ### Hello, i'm Ryan
 
 <a href="https://www.linkedin.com/in/ryancontento/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:contento.rk@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://twitter.com/contentoryan">![Twitter](https://img.shields.io/badge/<contentoryan>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="mailto:contento.rk@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://twitter.com/contentoryan" target="_blank">![Twitter](https://img.shields.io/badge/<contentoryan>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <!-- ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) -->
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
