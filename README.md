@@ -5,8 +5,8 @@
 <a href="mailto:contento.rk@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://twitter.com/contentoryan">![Twitter](https://img.shields.io/badge/<contentoryan>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
-![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
 ![Blazor](https://img.shields.io/static/v1?style=for-the-badge&message=Blazor&color=512BD4&logo=Blazor&logoColor=FFFFFF&label=)
+![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
