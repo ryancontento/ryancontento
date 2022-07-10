@@ -1,4 +1,4 @@
-### Hello, i'm Ryan
+### Hello, I'm Ryan
 
 <a href="https://ryancontento.dev/">![Portfolio](https://img.shields.io/badge/Site-Portfolio-blue?style=for-the-badge&logo=appveyor)</a>
 <a href="https://www.linkedin.com/in/ryancontento/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
